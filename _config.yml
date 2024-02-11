@@ -44,7 +44,8 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: G-WMGXBC516F # fill in to your verification string
+# google_site_verification: G-WMGXBC516F # fill in to your verification string
+google-site-verification: ceGgtSqMZIXtng0E1CIcumj-dQrLYCe7BofYLhX5mb8
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
