@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-01 23:30:00+0900
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+페이지 개설!!!!!
