@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Markdown Editor
+title: Markdown+Bootstrap Editor
 description: online markdown editor
 img: assets/img/project/1.jpg
 redirect:
