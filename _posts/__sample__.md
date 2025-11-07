@@ -56,6 +56,12 @@ giscus_comments: true
 toc:
   beginning: true
 
+# 사이드바에 목차 넣기
+## https://alshedivat.github.io/al-folio/blog/2023/sidebar-table-of-contents/
+### 마찬가지로 그냥 마크다운 스타일로 작성하면 알아서 완성됨
+toc:
+  sidebar: left
+
 # 표 이쁘게 출력하기
 ## https://alshedivat.github.io/al-folio/blog/2023/tables/
 pretty_table: true
@@ -65,13 +71,6 @@ pretty_table: true
 
 # 오디오 임베딩 하기
 ## https://alshedivat.github.io/al-folio/blog/2023/audios/
-
-
-# 사이드바에 목차 넣기
-## https://alshedivat.github.io/al-folio/blog/2023/sidebar-table-of-contents/
-### 마찬가지로 그냥 마크다운 스타일로 작성하면 알아서 완성됨
-toc:
-  sidebar: left
 
 # 인용구 커스텀하기
 ## https://alshedivat.github.io/al-folio/blog/2023/custom-blockquotes/
@@ -150,4 +149,6 @@ chart:
 
 {내용}
 (이미지 넣는 팁)
+https://getbootstrap.com/docs/4.0/content/images/
+클래스에 위에 부트스트랩 클래스 넣어서 레이아웃 잡을 수 있음
 {% include figure.liquid loading="eager" path="assets/img/blog/2402/1.png" class="img-fluid rounded z-depth-1" %}

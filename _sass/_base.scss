@@ -504,6 +504,17 @@ footer.sticky-bottom {
   }
 }
 
+@media (max-width: 576px) {
+  footer.fixed-bottom {
+    position: relative;
+    z-index: 0;
+  }
+  body.fixed-top-nav {
+    padding-bottom: 0;
+  }
+
+}
+
 // CV
 
 .cv {
@@ -619,6 +630,26 @@ footer.sticky-bottom {
     mjx-container[jax="CHTML"][display="true"] {
       display: unset;
     }
+  }
+}
+
+@media (max-width: 576px) {
+  .tag-category-list {
+    padding-top: 0;
+    ul p {
+      padding: 0.5rem 0.25rem;
+      margin: 0;
+    }
+    ul li {
+      padding: 0.5rem 0.25rem;
+    }
+  }
+  .post-title {
+    font-size: 1.5rem;
+  }
+  .post-list li {
+    padding-top: 0.25rem;
+    padding-bottom: 0.5rem;
   }
 }
 

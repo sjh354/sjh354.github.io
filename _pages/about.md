@@ -6,7 +6,7 @@ subtitle: Que será, será
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
