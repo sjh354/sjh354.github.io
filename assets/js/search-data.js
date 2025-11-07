@@ -36,8 +36,8 @@ ninja.data = [{
           section: "News",},{id: "news-이-페이지-주인장-전역",
           title: '🎉 이 페이지 주인장 전역 🎉',
           description: "",
-          section: "News",},{id: "projects-markdown-editor",
-          title: 'Markdown Editor',
+          section: "News",},{id: "projects-markdown-bootstrap-editor",
+          title: 'Markdown+Bootstrap Editor',
           description: "online markdown editor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/markdown_editor/";
