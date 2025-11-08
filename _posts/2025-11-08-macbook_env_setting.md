@@ -29,7 +29,7 @@ categories: Development
 나는 애초에 Windows를 써도 작업 표시줄에 딱 크롬만 남기고 다 날리는 스타일이고, 특히 맥은 단축키로 Spotlight 검색이 가능하기 때문에 필요를 못 느껴 다 지우고 있다.  
 그리고 웬만해선 안쓰는 앱들도 다 지우는데 맥북의 기본 앱들을 지우기에는 골아픈 경우가 생기기 때문에 그냥 두겠다.  
 <s>체스는 진자 지우고 싶은데....</s>
-{% include figure.liquid loading="eager" path="assets/img/blog/2511/13.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/blog/2511/13.png" class="img-fluid rounded z-depth-1" %}
 
 <br />
 
