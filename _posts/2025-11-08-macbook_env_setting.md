@@ -106,5 +106,16 @@ docker run hello-world
 [반디집X](https://kr.bandisoft.com/bandizip/x/), [LogiOptions+](https://www.logitech.com/ko-kr/software/logi-options-plus.html) 를 인터넷에서 설치하고 설정해 준다.
 
 
+<br />
+
+
+일단 이정도로 마무리 하겠다.  
+뭔가 새로운게 생기면 이 페이지를 수정할 예정이다.  
+Last Modified : 2025.11.08
+
+<br />
+<br />
+
 
 ## 마치며...
+M1 맥북의 개발 환경을 세팅해 보았다.  
