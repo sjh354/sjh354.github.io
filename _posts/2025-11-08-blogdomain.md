@@ -4,7 +4,7 @@ title: 블로그 도메인 바꾸기
 date: 2025-11-08 15:30:00+0900
 description:
 tags: 정보
-categories: Development
+categories: 개발
 ---
 
 ## 블로그의 도메인을 바꿔보고자 한다.

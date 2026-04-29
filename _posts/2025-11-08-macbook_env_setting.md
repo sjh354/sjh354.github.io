@@ -4,7 +4,7 @@ title: 맥북 환경 설정
 date: 2025-11-08 20:30:00+0900
 description:
 tags: 정보
-categories: Development
+categories: 개발
 ---
 
 ## 맥북을 초기화하고 처음부터 설정해 보자.

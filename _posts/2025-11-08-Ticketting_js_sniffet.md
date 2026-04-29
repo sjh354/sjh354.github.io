@@ -4,7 +4,7 @@ title: 티케팅 환경에서 서버시간에 딱 맞게 새로고침하는 방�
 date: 2025-11-17 20:30:00+0900
 description:
 tags: 정보
-categories: Development
+categories: 개발
 ---
 
 ## 티케팅을 해보자
