@@ -130,6 +130,30 @@ blockquote {
       color: var(--global-danger-block-title);
     }
   }
+  
+  &.block-headinfo {
+    border-color: var(--global-tip-block);
+    background-color: var(--global-tip-block-bg);
+
+    em,
+    li,
+    p,
+    strong {
+      color: var(--global-tip-block-text);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-tip-block-title);
+    }
+    * {
+      font-size: 50%;
+    }
+  }
 }
 
 // Checklist
