@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[논문리뷰] ~~~~"
-date: ~~~~
-tags: ~~~~
+date: 
+tags: 
 categories: 논문읽기
 featured: true
 mermaid:
@@ -31,13 +31,9 @@ chart:
 > <p><span>일련번호</span><span>      </span></p>
 > <p><span>분류</span><span>      </span></p>
 > <p><span>게시일</span><span>      </span></p>
-> <p><span>분석일</span><span>      </span></p>
 {: .block-headinfo}
 
 ---
-
-# [논문 제목]
-
 
 ## 1. TL;DR
 
