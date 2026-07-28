@@ -4,7 +4,7 @@ title: minesweeper
 description: back to the future
 img:
 importance: 3
-category: fun
+category: 커밍쑨
 ---
 
 <div class="d-flex justify-content-center my-3 border-10">
