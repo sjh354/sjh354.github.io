@@ -234,6 +234,10 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+
+  .squiggle {
+    filter: url(#squiggle-filter);
+  }
 }
 
 .profile.float-right {
