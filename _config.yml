@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jaehoon
+first_name: Jaehun
 middle_name: 
 last_name: Song
 contact_note: >
@@ -269,7 +269,7 @@ display_categories: ["논문읽기", "개발", "PS", "일기"] # these categorie
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Jaehoon]
+  last_name: [Jaehun]
   first_name: [Song]
 
   style: apa
