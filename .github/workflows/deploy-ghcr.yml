@@ -49,5 +49,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.SERVER_DISPATCH_TOKEN }}
-          repository: sjh354/mainserver
-          event-type: blog-updated
+          repository: sjh354/infra
+          event-type: deploy-request
+          client-payload: '{"service": "blog", "sha": "${{ github.sha }}"}'
