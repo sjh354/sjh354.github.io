@@ -1,0 +1,19 @@
+{
+  "files": [
+    "README.md",
+    "README.txt",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "DESIGN.md",
+    "CHANGELOG.md",
+    "CHANGELOG.txt",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "CODE_OF_CONDUCT.md",
+    "INSTALL.md",
+    "CUSTOMIZE.md",
+    "FAQ.md",
+    "NOTES.txt"
+  ],
+  "directories": []
+}

@@ -11,7 +11,24 @@ on:
       - main
 
 jobs:
+  changes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      required: ${{ steps.changes.outputs.required }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Classify documentation-only changes
+        id: changes
+        run: python3 scripts/ci_changes.py --github
+
   check:
+    needs: changes
+    if: needs.changes.outputs.required == 'true'
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
