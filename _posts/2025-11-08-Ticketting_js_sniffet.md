@@ -10,20 +10,18 @@ categories: 개발
 ## 티케팅을 해보자
 
 <br />
-최근들어 티켓팅이 더더 힘들어지고 있는 것 같다.  
+최근들어 티켓팅이 더더 힘들어지고 있는 것 같다.
 
 이것저것 프로그램을 써보는 것도 좋지만 가볍게 해결해 보자.
 
 <br />
 
 ```javascript
-
 function getTime() {
   console.log(Date.now());
 
   var xmlHttp;
-  var ServerTime =
-    "https://www.musinsa.com/campaign/mujinjangsale/special#limited";
+  var ServerTime = "https://www.musinsa.com/campaign/mujinjangsale/special#limited";
   xmlHttp = new XMLHttpRequest();
 
   //XML 전송 INIT
@@ -52,13 +50,10 @@ const pivot = new Date(2025, 10, 17, 19, 23, 30, 0);
 setInterval(() => {
   if (Date.now() > pivot) location.reload();
 }, 0.01);
-
 ```
 
 일단 이정도로 해당 서버 시간을 가져오고 어쩌고 저쩌고 할 수 있겠다.
 
 내일 이어서 써야징
 
-
 <br />
-
