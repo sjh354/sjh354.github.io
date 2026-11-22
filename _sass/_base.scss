@@ -130,11 +130,11 @@ blockquote {
       color: var(--global-danger-block-title);
     }
   }
-  
+
   &.block-headinfo {
     @extend .block-tip;
     padding: 0.2rem;
-    
+
     p {
       display: flex;
       margin: 8px 0;
@@ -545,7 +545,6 @@ footer.sticky-bottom {
   body.fixed-top-nav {
     padding-bottom: 0;
   }
-
 }
 
 // CV
