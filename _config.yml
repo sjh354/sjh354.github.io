@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jaehun
-middle_name: 
+middle_name:
 last_name: Song
 contact_note: >
   Please feel free to contact me by e-mail.
@@ -172,6 +172,16 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - scripts/
+  - AGENTS.md
+  - CLAUDE.md
+  - DESIGN.md
+  - README.txt
+  - CHANGELOG.md
+  - CHANGELOG.txt
+  - SECURITY.md
+  - CODE_OF_CONDUCT.md
+  - NOTES.txt
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
